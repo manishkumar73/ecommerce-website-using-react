@@ -1,0 +1,13 @@
+.forward-30s {
+  left: 50% !important;
+  top: 40% !important;
+  position: fixed;
+  cursor: pointer;
+}
+
+.back-30s {
+  left: 12% !important;
+  top: 40% !important;
+  position: fixed;
+  cursor: pointer;
+}
